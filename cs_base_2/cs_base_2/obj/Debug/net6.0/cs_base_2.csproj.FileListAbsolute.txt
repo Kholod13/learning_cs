@@ -1,0 +1,15 @@
+D:\OneDrive\Рабочий стол\cs_base_2\cs_base_2\bin\Debug\net6.0\cs_base_2.exe
+D:\OneDrive\Рабочий стол\cs_base_2\cs_base_2\bin\Debug\net6.0\cs_base_2.deps.json
+D:\OneDrive\Рабочий стол\cs_base_2\cs_base_2\bin\Debug\net6.0\cs_base_2.runtimeconfig.json
+D:\OneDrive\Рабочий стол\cs_base_2\cs_base_2\bin\Debug\net6.0\cs_base_2.dll
+D:\OneDrive\Рабочий стол\cs_base_2\cs_base_2\bin\Debug\net6.0\cs_base_2.pdb
+D:\OneDrive\Рабочий стол\cs_base_2\cs_base_2\obj\Debug\net6.0\cs_base_2.csproj.AssemblyReference.cache
+D:\OneDrive\Рабочий стол\cs_base_2\cs_base_2\obj\Debug\net6.0\cs_base_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Рабочий стол\cs_base_2\cs_base_2\obj\Debug\net6.0\cs_base_2.AssemblyInfoInputs.cache
+D:\OneDrive\Рабочий стол\cs_base_2\cs_base_2\obj\Debug\net6.0\cs_base_2.AssemblyInfo.cs
+D:\OneDrive\Рабочий стол\cs_base_2\cs_base_2\obj\Debug\net6.0\cs_base_2.csproj.CoreCompileInputs.cache
+D:\OneDrive\Рабочий стол\cs_base_2\cs_base_2\obj\Debug\net6.0\cs_base_2.dll
+D:\OneDrive\Рабочий стол\cs_base_2\cs_base_2\obj\Debug\net6.0\refint\cs_base_2.dll
+D:\OneDrive\Рабочий стол\cs_base_2\cs_base_2\obj\Debug\net6.0\cs_base_2.pdb
+D:\OneDrive\Рабочий стол\cs_base_2\cs_base_2\obj\Debug\net6.0\cs_base_2.genruntimeconfig.cache
+D:\OneDrive\Рабочий стол\cs_base_2\cs_base_2\obj\Debug\net6.0\ref\cs_base_2.dll
