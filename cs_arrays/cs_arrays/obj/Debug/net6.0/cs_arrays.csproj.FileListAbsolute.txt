@@ -1,0 +1,15 @@
+D:\OneDrive\Рабочий стол\cs_arrays\cs_arrays\bin\Debug\net6.0\cs_arrays.exe
+D:\OneDrive\Рабочий стол\cs_arrays\cs_arrays\bin\Debug\net6.0\cs_arrays.deps.json
+D:\OneDrive\Рабочий стол\cs_arrays\cs_arrays\bin\Debug\net6.0\cs_arrays.runtimeconfig.json
+D:\OneDrive\Рабочий стол\cs_arrays\cs_arrays\bin\Debug\net6.0\cs_arrays.dll
+D:\OneDrive\Рабочий стол\cs_arrays\cs_arrays\bin\Debug\net6.0\cs_arrays.pdb
+D:\OneDrive\Рабочий стол\cs_arrays\cs_arrays\obj\Debug\net6.0\cs_arrays.csproj.AssemblyReference.cache
+D:\OneDrive\Рабочий стол\cs_arrays\cs_arrays\obj\Debug\net6.0\cs_arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Рабочий стол\cs_arrays\cs_arrays\obj\Debug\net6.0\cs_arrays.AssemblyInfoInputs.cache
+D:\OneDrive\Рабочий стол\cs_arrays\cs_arrays\obj\Debug\net6.0\cs_arrays.AssemblyInfo.cs
+D:\OneDrive\Рабочий стол\cs_arrays\cs_arrays\obj\Debug\net6.0\cs_arrays.csproj.CoreCompileInputs.cache
+D:\OneDrive\Рабочий стол\cs_arrays\cs_arrays\obj\Debug\net6.0\cs_arrays.dll
+D:\OneDrive\Рабочий стол\cs_arrays\cs_arrays\obj\Debug\net6.0\refint\cs_arrays.dll
+D:\OneDrive\Рабочий стол\cs_arrays\cs_arrays\obj\Debug\net6.0\cs_arrays.pdb
+D:\OneDrive\Рабочий стол\cs_arrays\cs_arrays\obj\Debug\net6.0\cs_arrays.genruntimeconfig.cache
+D:\OneDrive\Рабочий стол\cs_arrays\cs_arrays\obj\Debug\net6.0\ref\cs_arrays.dll
